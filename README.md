@@ -85,3 +85,9 @@ To test if the bot is fully working, go to the server that you added the bot to 
 If the bot replies with the mp4 version, you are all set!!
 
 Tested on Window 10
+
+# Preview
+
+https://github.com/enterv0id/discord-audio-repost/assets/36939932/1a4eed74-39f4-42df-bb52-908473c75a0b
+
+
